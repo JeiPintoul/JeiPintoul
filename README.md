@@ -31,7 +31,6 @@ Sou estudante de Ciência da Computação (Turma de 2023) e Desenvolvedor Fullst
 
 <div align="center">
   <a href="https://github.com/JeiPintoul">
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeiPintoul)](https://github.com/anuraghazra/github-readme-stats)
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeiPintoul&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeiPintoul&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" />
 </div>
